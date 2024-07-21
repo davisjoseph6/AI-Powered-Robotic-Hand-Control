@@ -1,8 +1,12 @@
 # AI-Powered Robotic Hand Control
 
-![Handberton Screenshot](screenshot.png)
+![Handberton Screenshot](https://github.com/user-attachments/assets/c83ccfe5-c7a0-426e-8074-8d3840d6833a)!
 
 Welcome to the **AI-Powered Robotic Hand Control** project repository. This project combines artificial intelligence and robotics to create an interactive and responsive hand control system. The system uses natural language processing (NLP) to interpret user commands and control the movements of a robotic hand, demonstrating the integration of AI in practical applications.
+
+## Test Video
+
+Watch the [test video](https://youtu.be/WfIuchRKQdA) to see the AI-Powered Robotic Hand Control in action.
 
 ## About the Developers
 
@@ -61,10 +65,6 @@ The repository is organized as follows:
 - **static**
   - `script.js`: JavaScript for handling front-end interactions.
   - `style.css`: Styles for the web interface.
-
-## Test Video
-
-Watch the [test video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see the AI-Powered Robotic Hand Control in action.
 
 ---
 
