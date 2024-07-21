@@ -8,7 +8,7 @@ Welcome to the **AI-Powered Robotic Hand Control** project repository. This proj
 
 Watch the [test video](https://youtu.be/WfIuchRKQdA) to see the AI-Powered Robotic Hand Control in action.
 
-[![AI-Powered Robotic Hand Control Test Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/WfIuchRKQdA/maxresdefault.jpg)](https://youtu.be/WfIuchRKQdA)
 
 ## About the Developers
 
